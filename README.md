@@ -3,4 +3,4 @@ This work is related to my involvment in Bosch: BCAI as an AI researcher develop
 Files:
 - Well presented python scripts 
 - Reports of my findings
--Presentation for other teams inside the company
+- Presentation for other teams inside the company
